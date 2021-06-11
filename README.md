@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my GitHub profile text
-- 🌱 I’m currently learning WordPress, web components, Vue & Angular!
--  ⚡ I also love photography, elektronics, 3d-printing and other interesting things!
+- 🔭 I’m currently working on my GitHub profile text...
+- 🌱 I’m currently learning WordPress, web components, Vue & Angular (and just about anything I come across)!
+-  ⚡ I also love photography, electronics, 3d-printing and other interesting things!
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
