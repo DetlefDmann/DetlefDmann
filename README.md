@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my GitHub profile text...
+- 🔭 I’m currently working on a Node & Express project.
 - 🌱 I’m currently learning WordPress, web components, Vue & Angular (and just about anything I come across)!
 -  ⚡ I also love photography, electronics, 3d-printing and other interesting things!
 <!--
