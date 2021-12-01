@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a [Node & Express project](https://github.com/DetlefDmann/NodeExpressProject).
-- 🌱 I’m currently learning Python, web components, Vue & Angular (and just about anything I come across)!
+- 🌱 I’m currently learning Python, bash-scripting (and just about anything I come across)!
 -  ⚡ I also love photography, electronics, 3d-printing and other interesting things!
 <!--
 - 👯 I’m looking to collaborate on ...
